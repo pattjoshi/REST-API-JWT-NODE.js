@@ -2,6 +2,12 @@
 
 # ecommerce-rest-apis-node
 
+## Must have in your system
+- node.js
+- mongodb.
+
+*************
+
 ### Installation 
 
 #### Download project
